@@ -4,3 +4,7 @@
 
 
 😃 New readme file test.
+
+💻 computer science
+
+💪 Like fitness
